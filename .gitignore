@@ -1,0 +1,17 @@
+/example_game/Library
+/example_game/Temp
+/example_game/*.csproj
+/example_game/*.sln
+/example_game/ExportBundles
+/example_game/.vs/example_game/v15/*.suo
+/example_game/.vs/example_game/v15/Server/sqlite3/*.ide-wal
+/example_game/.vs/example_game/v15/Server/sqlite3/*.ide-shm
+/example_game/.vs/example_game/v15/Server/sqlite3/*.ide
+/example_game/.vs/example_game/v15/Server/sqlite3/*.lock
+/assetbundle/Library
+/assetbundle/Temp
+/assetbundle/*.sln
+/assetbundle/.vs/assetbundle/v15/*.suo
+/assetbundle/.vs/assetbundle/v15/Server/sqlite3/*.lock
+/assetbundle/.vs/assetbundle/v15/Server/sqlite3/*.ide
+/assetbundle/*.csproj
